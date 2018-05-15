@@ -1,0 +1,1 @@
+•	Designed a Peer to Peer communication system using TCP. The client-server communication was done using TCP sockets in python. Peers request the Registration Server for the list of active peers and server replies with active peers list. The peers can download a file from another active peer, similar to Bit-torrent. (in Python)
