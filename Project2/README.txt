@@ -1,0 +1,1 @@
+•	Implemented a point-to-multipoint data transfer protocol using UDP and socket programming in python. Stop-and-Wait automatic repeat request(ARQ) scheme is used to ensure reliable data transfer. Tested in various possible scenarios to evaluate its performance. (in Python)
